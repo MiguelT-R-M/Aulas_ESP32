@@ -1,3 +1,4 @@
+// Aula 2: (Não participei da 1...)
 // Não testei na placa ainda, não tenho as peças... bibliotecas não foram analizadas 100%
 // proj: https://wokwi.com/projects/479951238319217665
 
